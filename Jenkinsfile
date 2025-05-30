@@ -52,7 +52,7 @@ pipeline {
                                 -Dsonar.organization=${SONAR_ORGANIZATION} \
                                 -Dsonar.host.url=https://sonarcloud.io \
                                 -Dsonar.login=${SONAR_TOKEN} \
-                                -Dsonar.projectName=Transac_kardex \
+                                -Dsonar.projectName=mastermicroservice \
                                 -Dsonar.qualitygate.wait=true \
                                 -Dsonar.scanner.force=true \
                                 -Dsonar.scm.disabled=true \
