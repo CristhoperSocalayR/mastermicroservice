@@ -24,6 +24,6 @@ EXPOSE 8080
 # Ejecutar Jenkins cuando se inicie el contenedor
 ENTRYPOINT ["/usr/bin/tini", "--", "/usr/local/bin/jenkins.sh"]
 
-#docker build -t jenkins-maven-jdk17 .
+#docker build -t jenkins-maven-jdk17 ..
 #docker run -d -p 8080:8080 --name jenkins-maven-jdk17 jenkins-maven-jdk17
 #docker exec -it jenkins-maven-jdk17 cat /var/jenkins_home/secrets/initialAdminPassword
