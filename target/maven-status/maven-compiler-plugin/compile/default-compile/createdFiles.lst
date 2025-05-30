@@ -1,0 +1,14 @@
+pe/edu/vallegrande/supplier/service/UbigeoService.class
+pe/edu/vallegrande/supplier/model/Supplier.class
+pe/edu/vallegrande/supplier/service/TypeSupplierService.class
+pe/edu/vallegrande/supplier/repository/SupplierRepository.class
+pe/edu/vallegrande/supplier/model/Ubigeo.class
+pe/edu/vallegrande/supplier/model/TypeSupplier.class
+pe/edu/vallegrande/supplier/service/SupplierService.class
+pe/edu/vallegrande/supplier/SupplierApplication.class
+pe/edu/vallegrande/supplier/config/SwaggerConfig.class
+pe/edu/vallegrande/supplier/repository/UbigeoRepository.class
+pe/edu/vallegrande/supplier/controller/UbigeoRest.class
+pe/edu/vallegrande/supplier/repository/TypeSupplierRepository.class
+pe/edu/vallegrande/supplier/controller/SupplierRest.class
+pe/edu/vallegrande/supplier/controller/RestTypeSupplier.class

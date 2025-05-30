@@ -1,0 +1,11 @@
+server:
+  port: 8085
+
+spring:
+  application:
+    name: SupplierNPH
+
+  r2dbc:
+    url: r2dbc:postgresql://ep-floral-mode-a4wbk2jd-pooler.us-east-1.aws.neon.tech:5432/zzz?sslmode=require
+    username: zzz_owner
+    password: npg_lknSzD8Ua5Zm

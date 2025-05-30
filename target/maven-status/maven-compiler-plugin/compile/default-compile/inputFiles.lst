@@ -1,0 +1,14 @@
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/SupplierApplication.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/config/SwaggerConfig.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/controller/RestTypeSupplier.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/controller/SupplierRest.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/controller/UbigeoRest.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/model/Supplier.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/model/TypeSupplier.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/model/Ubigeo.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/repository/SupplierRepository.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/repository/TypeSupplierRepository.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/repository/UbigeoRepository.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/service/SupplierService.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/service/TypeSupplierService.java
+/workspaces/mastermicroservice/src/main/java/pe/edu/vallegrande/supplier/service/UbigeoService.java

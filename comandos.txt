@@ -1,0 +1,8 @@
+sdk install java 17.0.11-jbr
+mvn spring-boot:run
+
+https://vallegrandea-mssupplier-d5m1zs6fian.ws-us116.gitpod.io/
+
+# https://8085-vallegrandea-mssupplier-d5m1zs6fian.ws-us116.gitpod.io/webjars/swagger-ui/index.html#/  (Swagger Codespace)
+mvn -Dtest=SupplierServiceTest test
+mvn -Dtest=TypeSupplierServiceTest test
